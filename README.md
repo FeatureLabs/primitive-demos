@@ -4,6 +4,12 @@ Demo notebooks showcasing premium primitives
 
 ## Installation
 
+First, clone this repo
+
+```
+git clone git@github.com:FeatureLabs/primitive-demos.git
+```
+
 If featuretools-enterprise is not installed
 
 ```
