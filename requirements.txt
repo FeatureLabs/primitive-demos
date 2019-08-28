@@ -1,4 +1,4 @@
 featuretools-enterprise>=1.8.2
 graphviz>=0.8.4,<0.12
-xgboost
-category_encoders>=2.0.0
+scikit-learn==0.21.3
+matplotlib==3.1.1
