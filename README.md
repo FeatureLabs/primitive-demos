@@ -1,6 +1,6 @@
 # Premium Primitive Demos
 
-This repo showcases applying [premium primitives](primitives.featurelabs.com) to real-world datasets
+This repo showcases applying [premium primitives](https://primitives.featurelabs.com) to real-world datasets
 
 
 ## Preview Demos
