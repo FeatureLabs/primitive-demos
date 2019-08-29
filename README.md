@@ -13,6 +13,7 @@ You can preview the demos in your browser at the following links
 ## Running the demos
 
 ### Prereqs
+* A Featuretools Enterprise license key (contact support@featurelabs.com to request)
 * Python 3.5+
 * We recommend running these demos on macOS, linux, or within a linux docker container on Windows
 
@@ -29,7 +30,6 @@ Next, install the requirements, including Featuretools Enterprise.
 ```
 pip install --upgrade -r requirements.txt --extra-index-url https://install.featurelabs.com/<KEY>/
 ```
-Contact support@featurelabs.com to get your license key. 
 
 #### Installation Troubleshooting
 
