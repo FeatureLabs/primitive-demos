@@ -27,7 +27,7 @@ git clone git@github.com:FeatureLabs/primitive-demos.git
 Next, install the requirements, including Featuretools Enterprise.
 
 ```
-pip install -r requirements.txt --extra-index-url https://install.featurelabs.com/<KEY>/
+pip install --upgrade -r requirements.txt --extra-index-url https://install.featurelabs.com/<KEY>/
 ```
 Contact support@featurelabs.com to get your license key. 
 
