@@ -18,11 +18,13 @@ First, clone this repo
 git clone git@github.com:FeatureLabs/primitive-demos.git
 ```
 
-Then install, you must install the requierments, including Featuretools Enetrpise.
+Then install you must install the requierments, including Featuretools Enetrpise.
 
 ```
-pip install -r requirements.txt --extra-index-url https://install.featurelabs.com/<YOUR_URL>/
+pip install -r requirements.txt --extra-index-url https://install.featurelabs.com/<KEY>/
 ```
+
+Contact support@featurelabs.com to get your license key. 
 
 ### Running Demos
 
@@ -31,3 +33,7 @@ Launch a jupyter notebook server and navigate to the demo you'd like to run
 ```
 jupyter notebook
 ```
+
+## Request a demo
+
+We will continue to add demos to this repo. If there is a dataset or premium primitive you'd like to see include, please let us know! 
