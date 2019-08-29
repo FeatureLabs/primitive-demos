@@ -14,7 +14,7 @@ You can preview the demos in your browser at the following links
 
 ### Prereqs
 * Python 3.5+
-* We recommend running these demos on macOS, linux, or within a linux docker on Windows
+* We recommend running these demos on macOS, linux, or within a linux docker container on Windows
 
 ### Installation
 
