@@ -38,4 +38,4 @@ jupyter notebook
 
 ## Request a demo
 
-We will continue to add demos to this repo. If there is a dataset or premium primitive you'd like to see include, please let us know! 
+We will continue to add demos to this repo. If there is a dataset or premium primitive you'd like to see included, please let us know! 
