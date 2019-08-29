@@ -20,7 +20,7 @@ First, clone this repo
 git clone git@github.com:FeatureLabs/primitive-demos.git
 ```
 
-Next, install the requierments, including Featuretools Enterprise.
+Next, install the requirements, including Featuretools Enterprise.
 
 ```
 pip install -r requirements.txt --extra-index-url https://install.featurelabs.com/<KEY>/
