@@ -3,6 +3,8 @@
 This repo showcases applying [premium primitives](primitives.featurelabs.com) to real-world datasets
 
 
+## Preview Demos
+
 You can preview the demos in your browser at the following links 
 
 * [Predicting Taxi Trip Duration](https://nbviewer.jupyter.org/github/FeatureLabs/primitive-demos/blob/master/NYC%20Taxi.ipynb)
