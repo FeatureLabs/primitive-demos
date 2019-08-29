@@ -1,8 +1,16 @@
-# primitive-demos
-Demo notebooks showcasing premium primitives
+# Premium Primitive Demos
+
+This repo showcases applying [premium primitives](primitives.featurelabs.com) to real-world datasets
 
 
-## Installation
+You can preview the demos in your browser at the following links 
+
+* [Predicting Taxi Trip Duration](https://nbviewer.jupyter.org/github/FeatureLabs/primitive-demos/blob/master/NYC%20Taxi.ipynb)
+
+
+## Running the demos
+
+### Installation
 
 First, clone this repo
 
@@ -10,24 +18,16 @@ First, clone this repo
 git clone git@github.com:FeatureLabs/primitive-demos.git
 ```
 
-If featuretools-enterprise is not installed
+Then install, you must install the requierments, including Featuretools Enetrpise.
 
 ```
 pip install -r requirements.txt --extra-index-url https://install.featurelabs.com/<YOUR_URL>/
 ```
 
-Otherwise
+### Running Demos
 
-```
-pip install -r requirements.txt
-```
-
-## Running Demos
-
-Launch a jupyter notebook server
+Launch a jupyter notebook server and navigate to the demo you'd like to run
 
 ```
 jupyter notebook
 ```
-
-And run through the demos
