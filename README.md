@@ -12,7 +12,9 @@ You can preview the demos in your browser at the following links
 
 ## Running the demos
 
-*Note: We recommend running these demos on macOS, linux, or within a linux docker on Windows.*
+### Prereqs
+* Python 3.5+
+* We recommend running these demos on macOS, linux, or within a linux docker on Windows
 
 ### Installation
 
