@@ -5,8 +5,9 @@ This repo showcases applying [premium primitives](https://primitives.featurelabs
 
 ## Preview Demos
 
-You can preview the demos in your browser at the following links 
+You can preview the demos in your browser at the following links
 
+* [Premium Primitive Examples](https://nbviewer.jupyter.org/github/FeatureLabs/primitive-demos/blob/master/Premium%Primitive%20Examples.ipynb)
 * [Predicting Taxi Trip Duration](https://nbviewer.jupyter.org/github/FeatureLabs/primitive-demos/blob/master/NYC%20Taxi.ipynb)
 
 
@@ -47,4 +48,4 @@ jupyter notebook
 
 ## Request a demo
 
-We will continue to add demos to this repo. If there is a dataset or premium primitive you'd like to see included, please let us know! 
+We will continue to add demos to this repo. If there is a dataset or premium primitive you'd like to see included, please let us know!
