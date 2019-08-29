@@ -10,6 +10,8 @@ You can preview the demos in your browser at the following links
 
 ## Running the demos
 
+*Note: We recommend running these demos on macOS, linux, or within a linux docker on Windows.*
+
 ### Installation
 
 First, clone this repo
@@ -18,7 +20,7 @@ First, clone this repo
 git clone git@github.com:FeatureLabs/primitive-demos.git
 ```
 
-Then install you must install the requierments, including Featuretools Enterprise.
+Next, install the requierments, including Featuretools Enterprise.
 
 ```
 pip install -r requirements.txt --extra-index-url https://install.featurelabs.com/<KEY>/
