@@ -27,8 +27,13 @@ Next, install the requirements, including Featuretools Enterprise.
 ```
 pip install -r requirements.txt --extra-index-url https://install.featurelabs.com/<KEY>/
 ```
-
 Contact support@featurelabs.com to get your license key. 
+
+#### Installation Troubleshooting
+
+We recommend running these demos on macOS, linux, or within a linux docker on Windows.
+
+
 
 ### Running Demos
 
